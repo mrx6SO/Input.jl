@@ -1,12 +1,13 @@
 include("Input.jl") 
 
-function vect(b,a)
+function vect()
     
-    vec = b - a 
-
-    b = UserInput("Value of b: ");
-    a= UserInput();
-
-    vec
-
-end
+           b = input()
+        
+           a = input()
+       
+           vect = b - a    
+        
+       vect 
+       
+    end 
