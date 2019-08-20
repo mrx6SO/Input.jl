@@ -6,8 +6,6 @@ function vect()
         
            a = input()
        
-           vect = b - a    
-        
-       vect 
-       
-    end 
+           return b :: Int64 - a :: Int64  
+      
+       end 
