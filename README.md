@@ -1,8 +1,14 @@
-# UserInput.jl - 
+# UserInput.jl and Input.jl - Module for Julia Language. 
+
+USAGE:
 
 include("UserInput.jl")
+
 or
-inclue("Input.jl") 
+
+include("Input.jl") 
+
+DESCRIPTION:
 
 A improved input() function to Julia. With systax very similar to Python. 
 
