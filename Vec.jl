@@ -1,4 +1,4 @@
-include("UserInput.jl") 
+include("Input.jl") 
 
 function vect(b,a)
     
@@ -7,6 +7,6 @@ function vect(b,a)
     b = UserInput("Value of b: ");
     a= UserInput();
 
-vec
+    vec
 
 end
